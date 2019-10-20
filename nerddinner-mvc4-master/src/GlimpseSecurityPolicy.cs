@@ -1,5 +1,5 @@
 /*
-// Uncomment this class to provide custom runtime policy for Glimpse
+// comment this class to provide custom runtime policy for Glimpse
 
 using Glimpse.AspNet.Extensions;
 using Glimpse.Core.Extensibility;
